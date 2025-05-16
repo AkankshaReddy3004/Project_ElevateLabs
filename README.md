@@ -1,2 +1,3 @@
 # Project_ElevateLabs
 I took the  E-commerce Return Rate Reduction Analysis dataset from the kaggle and cleaned the dataset with python libraries like matplotlib and seaborn, standardised the dataset and converted the null values of the return status to the binary bit values,done little feature enhancement like delay of the return and discount values, analysed through the EDA for the different categories and the return rate like highest(clothing-52.4%) and lowest(Home-49.0%), Reasons of return like defective(1327) ,wrong item(1258) ,changed mind due to item color or quality(1255) , not as described(1212),location Analysis,shipping method and discount vs return and analysed data by plots using the libraries.
+I done the analysis using te powerBI and 
